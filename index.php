@@ -8,14 +8,14 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f4f4f9;
+            background-color: lightblue;
             text-align: center;
             margin: 0;
             padding: 20px;
         }
 
-        h1 {
-            color: lightblue;
+        h2 {
+            color: black;
         }
 
         form {
